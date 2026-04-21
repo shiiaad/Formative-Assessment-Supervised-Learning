@@ -37,20 +37,25 @@ Project Workflow:-
 Loaded the breast cancer dataset using load_breast_cancer().
 
 2️:-Data Preprocessing
+
 Checked for missing values
 Applied feature scaling using StandardScaler
+
 3️:-Train-Test Split
 
 Split dataset into:
 
 80% Training Data
 20% Testing Data
+
 4️:-Models Implemented
+
 Logistic Regression
 Decision Tree Classifier
 Random Forest Classifier
 Support Vector Machine (SVM)
 k-Nearest Neighbors (KNN)
+
 5️:-Model Evaluation
 
 Used:
